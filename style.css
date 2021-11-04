@@ -1,0 +1,84 @@
+img{
+    max-width: 100%;
+}
+p, h2, h3{
+    color: white  !important; 
+}
+
+
+.menu, .menup{
+    width: 33%;
+    float: left;
+    text-align: center;
+}
+.menup2{
+    width: 35%;
+    float: right;
+    text-align: right;
+
+}
+.menu3{
+    text-align: right;
+}
+.menu3{
+    text-align: left;
+    float: left;
+    width: 33%;
+
+}
+.logo{
+    width: 20%;
+}
+.g{
+    padding-top: 30px;
+}
+header{
+    border-bottom: 2px solid white;
+}
+main{
+    background-image: url(img/b1.jpg);
+    text-align: center;
+}
+.cd1{
+    background: rgba(0, 0, 0, 0.904);
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    padding: 7%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.cd1b{
+    background: white;
+    color: black;
+    padding: 10px 20px 10px 20px;
+    font-size: 17px;
+    border: none;
+}
+.h22{
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+.downpr1{
+    border-top: 2px solid black;
+    background: white;
+    padding: 5px;
+
+}
+.downpr1p1{
+    color: black !important;
+    font-size: 17px;
+    margin-bottom: 0px;
+
+}
+.downpr1p2{
+    color: black !important;
+    text-align: right;
+    font-size: 17px;
+
+}
+.products1{
+    margin-top: 20px;
+}
